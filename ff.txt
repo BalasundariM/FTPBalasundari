@@ -1,4 +1,4 @@
-52562sathya
+sathya
 bala
 dfsds
 fgfg
@@ -12,12 +12,10 @@ usha
 3333
 zzzzzzzz
 this is akhil
-<<<<<<< Updated upstream
 102
 102
 102
 102
-=======
 HBD sathya
->>>>>>> Stashed changes
 this is ashish
+
