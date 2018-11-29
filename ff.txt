@@ -1,3 +1,28 @@
+<<<<<<< HEAD
 *
 (
 )
+=======
+52562sathya
+bala
+dfsds
+fgfg
+fgfdgdfg
+ghgfhgfh
+fhjghjh
+uma
+usha
+1111
+2222
+3333
+zzzzzzzz
+this is akhil
+<<<<<<< Updated upstream
+102
+102
+102
+102
+=======
+HBD sathya
+>>>>>>> Stashed changes
+>>>>>>> 9a03731beea7b4342f54a44433828077dfb2a33e
